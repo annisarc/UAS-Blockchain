@@ -16,7 +16,7 @@ In this Dapp, user can upload and save their document on the blockchain. The Doc
   > pip install eth-brownie
 - Add Ganache Local Network (you can get the ganache IP and Chainid from the Ganache app, so make sure you already download Ganache)
   > brownie networks add Ethereum ganache-
-  > local = http://127.0.0.1.7545 chainid=5777
+  > local=http://127.0.0.1.7545 chainid=5777
 - Deploy Smartcontract
   > brownie run scripts/deploy.py --network=ganache-local
 - Reset Smartcontract
