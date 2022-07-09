@@ -23,5 +23,5 @@ In this Dapp, user can upload and save their document on the blockchain. The Doc
   > brownie run scripts/reset.py
 - Update the frontend
   > brownie run scripts/update_front_end.py
-- Run the Code on Ganache Local Network (before you run it, you have to setup the Local Network test on your Metamask first. make sure you finished the setup first
+- Run the Code on Ganache Local Network (before you run it, you have to setup the Local Network test on your Metamask first. make sure you finished the setup first)
   >npm start
